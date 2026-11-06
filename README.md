@@ -1,4 +1,7 @@
-<img width="640" height="640" alt="meow-cat" src="https://github.com/user-attachments/assets/fd96618a-8032-4444-abc1-1bc347b4da0c" />
+Cand profesoara ti-a dat drumul de la pereche mai degraba :)
+
+<img width="220" height="220" alt="meow-cat" src="https://github.com/user-attachments/assets/0e367e7b-561a-44cc-85e8-346b404f492c" />
+
 Contents:
 
 Categories
